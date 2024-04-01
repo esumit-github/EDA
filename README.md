@@ -4,15 +4,9 @@
 
 ## 2. EDA Basics 2
 
-## 3. EDA Intermidiate 1: with Keras
+## 3. EDA Intermidiate 1
 
 ## 4. EDA Intermidiate 2: with Keras
-
-
-
-
-
-
 
 ### Authors
 
